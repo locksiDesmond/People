@@ -1,0 +1,17 @@
+.mainlayout {
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+.main-body {
+  margin-top: 70px;
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+.display-none {
+  opacity: 10%;
+}
+.display-flex {
+  display: flex;
+}
